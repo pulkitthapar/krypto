@@ -5,4 +5,5 @@
 - SMTP messaging
 # issues faced: 
 - Creating the django framework application
-#task completion = 10%
+
+# task completion = 10%
